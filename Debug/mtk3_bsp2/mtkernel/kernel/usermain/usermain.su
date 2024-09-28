@@ -1,0 +1,10 @@
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:81:12:task_1	16	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:94:12:task_2	24	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:158:12:usermain	8	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:173:6:ControllerRead	328	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:253:6:right_1st_joint	16	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:259:6:right_2nd_joint	16	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:265:6:right_3rd_joint	16	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:271:6:left_1st_joint	16	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:277:6:left_2nd_joint	16	static
+../mtk3_bsp2/mtkernel/kernel/usermain/usermain.c:283:6:left_3rd_joint	16	static
